@@ -21,8 +21,8 @@ Supplementary Materials to **IEEE CEC 2019** paper: _Fusing creative operations 
 `java -jar target\ec.composer-2.0.0-jar-with-dependencies.jar`
 
 ## Related Works
-* Movement IV from _Remembrance_ (2003)
-  * Original code, data and sheet music: https://github.com/canticum/remembrance 
+* Movement IV from _Reminiscence_ (2003)
+  * Original code, data and sheet music: https://github.com/canticum/reminiscence 
   * Listen: https://bit.ly/2sDKA9h
 * Movement V from _Six Miniatures_ (2015)
   * Listen: https://bit.ly/2REVquX
