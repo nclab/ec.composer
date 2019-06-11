@@ -22,7 +22,7 @@ Supplementary Materials to **IEEE CEC 2019** paper: _Fusing creative operations 
 
 ## Related Works
 * Movement IV from _Reminiscence_ (2003)
-  * Original code, data and sheet music: https://github.com/canticum/reminiscence 
+  * Original code, data and sheet music: https://github.com/canticum/remembrance 
   * Listen: https://bit.ly/2sDKA9h
 * Movement V from _Six Miniatures_ (2015)
   * Listen: https://bit.ly/2REVquX
