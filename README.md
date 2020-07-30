@@ -39,4 +39,4 @@ Supplementary Materials to **IEEE CEC 2019** paper: _Fusing creative operations 
 
 Please cite
 
-> Chang, C.-y. & Chen, Y.-p. (2019). Fusing creative operations into evolutionary computation for composition: From a composer's perspective. In <i>Proceedings of 2019 IEEE Congress on Evolutionary Computation (CEC 2019)</i> (pp. 2114-2121).
+> Chang, C.-y. & Chen, Y.-p. (2019). Fusing creative operations into evolutionary computation for composition: From a composer's perspective. In <i>Proceedings of 2019 IEEE Congress on Evolutionary Computation (CEC 2019)</i> (pp. 2114-2121). doi: [10.1109/CEC.2019.8790335](http://dx.doi.org/10.1109/CEC.2019.8790335).
